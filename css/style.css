@@ -27,6 +27,10 @@ h1 {
   gap: 10px;
  
 }
+.nav__left img{
+  width: 90px;
+  height: 90px;
+}
 .nav_right a,
 i {
   margin-left: 20px;
@@ -133,4 +137,8 @@ h1{
 }
 .nav_p{
   margin-top: 100px;
+}
+.footer-left img{
+  width: 90px;
+  height: 90px;
 }
